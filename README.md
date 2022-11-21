@@ -5,9 +5,9 @@
 #### 1.  Reverse A Linked List
 #### 2.  Construct A Linked List
 #### 3.  Print Middle Of A Linked List
-#### 2.  Delete Duplicate In A Linked List
-#### 2.  Detect Loop In A Linked List
-#### 2.  Remove Loop In A Linked List
+#### 4.  Delete Duplicate In A Linked List
+#### 5.  Detect Loop In A Linked List
+#### 6.  Remove Loop In A Linked List
 
 ##  Array
 
